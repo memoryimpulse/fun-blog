@@ -6,7 +6,7 @@ import { defineConfig } from './src/helpers/config-helper';
 export default defineConfig({
   lang: 'en-US',
   site: 'https://slate-blog-demo.vercel.app',
-  avatar: '/avatar.png',
+  avatar: '/avatar02.png',
   title: 'in memoria',
   description: 'thoughts from the threshold.',
   lastModified: true,
