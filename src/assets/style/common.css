@@ -280,17 +280,17 @@
 
   --color-site-bg: #1c1d1f;
 
-  --color-site-text: #cfcfcf;
+  --color-site-text: #e0e0e0;
 
-  --color-site-text-subtle: #cfcfcf;
+  --color-site-text-subtle: #e0e0e0;
 
   
 
   /* Overwrites default framework typography scales to listen to your colors */
 
-  --color-slate11: #d3d6b6;
+  --color-slate11: #e0e0e0;
 
-  --color-slate12: #cfcfcf;
+  --color-slate12: #e0e0e0;
 
 }
 
