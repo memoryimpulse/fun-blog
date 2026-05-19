@@ -64,6 +64,14 @@
 
   --color-gray12: var(--gray-12);
 
+  /* Custom Light/Dark variables mapped to your exact requests */
+
+  --color-site-bg: #FCFCFD;
+
+  --color-site-text: #051d26;
+
+  --color-site-text-subtle: #1c3640;
+
   --color-slate1: var(--slate-1);
 
   --color-slate2: var(--slate-2);
@@ -266,11 +274,23 @@
 
 }
 
-/* Overwrites default framework typography scales to listen to your colors */
+/* Dark mode overrides applied to the palette custom variables */
 
-  --color-slate11: var(--slate-11);
+@variant dark {
 
-  --color-slate12: var(--slate-12);
+  --color-site-bg: #051d26;
+
+  --color-site-text: #FCFCFD;
+
+  --color-site-text-subtle: #d3d6b6;
+
+  
+
+  /* Overwrites default framework typography scales to listen to your colors */
+
+  --color-slate11: #d3d6b6;
+
+  --color-slate12: #FCFCFD;
 
 }
 
