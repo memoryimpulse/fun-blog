@@ -47,7 +47,7 @@ views:
     name: Posts
     filters:
       and:
-        - file.folder.startsWith("post")
+        - draft != true
     sort:
       - property: pubDate
         direction: DESC

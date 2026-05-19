@@ -18,6 +18,14 @@ export default defineConfig({
     {
       icon: 'link',
       link: 'https://github.com/SlateDesign/slate-blog'
+    }, // <-- This comma is critical before adding the next item!
+    {
+      icon: 'youtube',
+      link: 'https://youtube.com/your-channel'
+    },
+    {
+      icon: 'x', // or 'twitter' depending on what your theme supports
+      link: 'https://x.com/your-handle'
     },
 ]
 });
