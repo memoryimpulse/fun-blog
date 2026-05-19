@@ -1,6 +1,6 @@
 ---
-title: New Egypt
-description: we are humanizing the universe
+title: the new egypt
+description: humanizing universe
 tags: []
 pubDate: 2026-05-18
 draft: false
@@ -19,6 +19,8 @@ This is 'social alchemy,' based on the idea of self metamorphosis: the process o
 
 Simply, the divine individual will achieve the metamorphosis and redefine the ego."
 
+(New Hermopolis)
+
 ...
 
 "It is an attempt to regain the lost soul, like the idea of the Netro Neema Twelve: the lady who redeemed what Egypt Kemmet has lost. Her task was the concept of "Redemption." What is lost is the soul of Egypt. **This place [New Hermopolis] is trying to redeem the soul of Ancient Egypt.**
@@ -34,6 +36,8 @@ pyramids distant with etheric light.
 spirits of Egypt come together,
 
 her secret wisdom is available whenever.
+
+(Spirit of Nile Verse 02 - 10 May 2026)
 
 ...
 
@@ -59,4 +63,4 @@ the great mother, to great humanity!
 
 (Spirit of Nile Verse - 8 May 2026)
 
-![spirit of nile](attachments/spirit-of-nile.jpeg)
+![digital illustration on egypt](attachments/spirit-of-nile.jpeg)
