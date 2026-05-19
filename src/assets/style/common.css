@@ -36,7 +36,7 @@
 
 @import "@radix-ui/colors/orange-dark.css";
 
-@custom-variant dark (&:where(.dark, .dark \*));
+@custom-variant dark (&:where(.dark, .dark *));
 
 @theme {
 
@@ -86,7 +86,7 @@
 
   --color-slate11: var(--slate-11);
 
-  --color-slate12: #ededed;
+  --color-slate12: var(--slate-12);
 
   --color-blue1: var(--blue-1);
 
@@ -266,11 +266,16 @@
 
 }
 
-body {
+/* Overwrites default framework typography scales to listen to your colors */
 
-  @apply text-sm text-slate12;
+  --color-slate11: var(--slate-11);
+
+  --color-slate12: var(--slate-12);
 
 }
 
+body {
 
+  @apply text-sm bg-site-bg text-site-text transition-colors duration-200;
 
+}
