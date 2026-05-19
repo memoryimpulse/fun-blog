@@ -16,7 +16,7 @@ export default defineConfig({
   },
   socialLinks: [
     {
-      icon: 'github',
+      icon: 'link',
       link: 'https://github.com/SlateDesign/slate-blog'
     },
 ]
