@@ -59,6 +59,10 @@
     --icon: url('../../assets/images/link.svg');
   }
 
+  &.substack {
+    --icon: url('../../assets/images/substack.svg');
+  }
+
   &.figma {
     --icon: url('../../assets/images/figma.svg');
   }
