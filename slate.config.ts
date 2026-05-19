@@ -6,13 +6,13 @@ import { defineConfig } from './src/helpers/config-helper';
 export default defineConfig({
   lang: 'en-US',
   site: 'https://slate-blog-demo.vercel.app',
-  avatar: '/avatar.png',
-  title: 'Welcome to my World...',
-  description: 'Enjoy my thoughts (from the threshold).',
+  avatar: '/avatar.svg',
+  title: 'in memoria',
+  description: 'thoughts from the threshold.',
   lastModified: true,
   readTime: true,
   footer: {
-    copyright: '© 2025 Slate Design',
+    copyright: '© 2025 slate design, used by Anthony Ng*',
   },
   socialLinks: [
     {
