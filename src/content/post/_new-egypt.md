@@ -1,6 +1,6 @@
 ---
-title: "New Egypt"
-description: ""
+title: New Egypt
+description: we are humanizing the universe
 tags: []
 pubDate: 2026-05-18
 ---
