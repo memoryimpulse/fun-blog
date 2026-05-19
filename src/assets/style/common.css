@@ -68,7 +68,7 @@
 
   --color-site-bg: #FCFCFD;
 
-  --color-site-text: #051d26;
+  --color-site-text: #000e1c;
 
   --color-site-text-subtle: #1c3640;
 
@@ -278,7 +278,7 @@
 
 @variant dark {
 
-  --color-site-bg: #051d26;
+  --color-site-bg: #000e1c;
 
   --color-site-text: #FCFCFD;
 
