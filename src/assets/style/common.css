@@ -35,7 +35,7 @@
   --color-gray12: var(--gray-12);
 
   /* Custom Light/Dark variables mapped to your exact requests */
-  --color-site-bg: #F3F5DA;
+  --color-site-bg: #f4f5e6;
   --color-site-text: #051d26;
   --color-site-text-subtle: #1c3640;
 
@@ -147,12 +147,12 @@
 /* Dark mode overrides applied to the palette custom variables */
 @variant dark {
   --color-site-bg: #051d26;
-  --color-site-text: #F3F5DA;
+  --color-site-text: #f4f5e6;
   --color-site-text-subtle: #d3d6b6;
   
   /* Overwrites default framework typography scales to listen to your colors */
   --color-slate11: #d3d6b6;
-  --color-slate12: #F3F5DA;
+  --color-slate12: #f4f5e6;
 }
 
 body {
