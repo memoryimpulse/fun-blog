@@ -17,15 +17,11 @@ export default defineConfig({
   socialLinks: [
     {
       icon: 'substack',
-      link: 'https://github.com/SlateDesign/slate-blog'
+      link: 'https://substack.com/@memoryimpulse'
     }, // <-- This comma is critical before adding the next item!
     {
-      icon: 'youtube',
-      link: 'https://youtube.com/your-channel'
-    },
-    {
       icon: 'x', // or 'twitter' depending on what your theme supports
-      link: 'https://x.com/your-handle'
+      link: 'https://x.com/memoryimpulse'
     },
 ]
 });
