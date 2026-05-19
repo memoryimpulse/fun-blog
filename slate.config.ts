@@ -7,8 +7,8 @@ export default defineConfig({
   lang: 'en-US',
   site: 'https://slate-blog-demo.vercel.app',
   avatar: '/avatar.png',
-  title: 'Slate Blog',
-  description: 'Pure thoughts, simple stories.',
+  title: 'Welcome to my World...',
+  description: 'Enjoy my thoughts (from the threshold).',
   lastModified: true,
   readTime: true,
   footer: {

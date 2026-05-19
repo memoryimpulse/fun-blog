@@ -3,6 +3,7 @@ title: New Egypt
 description: we are humanizing the universe
 tags: []
 pubDate: 2026-05-18
+draft: false
 ---
 "Hermeticism is the beginning of Sophism, as it is only through knowledge that you transcend.
 
