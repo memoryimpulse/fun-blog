@@ -16,7 +16,7 @@ export default defineConfig({
   },
   socialLinks: [
     {
-      icon: 'link',
+      icon: 'substack',
       link: 'https://github.com/SlateDesign/slate-blog'
     }, // <-- This comma is critical before adding the next item!
     {
