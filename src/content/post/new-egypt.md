@@ -5,6 +5,8 @@ tags: []
 pubDate: 2026-05-18
 draft: false
 ---
+## Social-spiritual reform
+
 "Hermeticism is the beginning of Sophism, as it is only through knowledge that you transcend.
 
 The more you acquire higher knowledge, the closer you get to your lost heavenly part of yourself, lost when heaven was separated.
@@ -27,7 +29,7 @@ Simply, the divine individual will achieve the metamorphosis and redefine the eg
 
 (New Hermopolis)
 
-...
+## Nile Wisdom
 
 standing on rivers of might,
 

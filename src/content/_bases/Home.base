@@ -47,7 +47,7 @@ views:
     name: Posts
     filters:
       and:
-        - draft != true
+        - draft != false
     sort:
       - property: pubDate
         direction: DESC
