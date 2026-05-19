@@ -1,11 +1,12 @@
 ---
-title: "Multiple Image Layout Demo"
+title: Multiple Image Layout Demo
 description: A demonstration of horizontal image layout effects with different numbers of images, showcasing automatic column distribution and responsive design.
 tags:
   - Demo
   - Layout
   - Images
 pubDate: 2025-07-13
+draft: true
 ---
 
 This page demonstrates the multiple image layout feature that automatically arranges images in columns based on the number of images in a group. The layout is responsive and adapts to different screen sizes.
