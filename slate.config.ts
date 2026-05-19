@@ -18,6 +18,7 @@ export default defineConfig({
     {
       icon: 'github',
       link: 'https://github.com/SlateDesign/slate-blog'
+      icon: 'link',
     },
 ]
 });
