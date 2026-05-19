@@ -70,7 +70,7 @@
 
   --color-site-text: #111214;
 
-  --color-site-text-subtle: #1c3640;
+  --color-site-text-subtle: #111214;
 
   --color-slate1: var(--slate-1);
 
@@ -280,9 +280,9 @@
 
   --color-site-bg: #111214;
 
-  --color-site-text: #FCFCFD;
+  --color-site-text: #e3e3e3;
 
-  --color-site-text-subtle: #d3d6b6;
+  --color-site-text-subtle: #e3e3e3;
 
   
 
@@ -290,7 +290,7 @@
 
   --color-slate11: #d3d6b6;
 
-  --color-slate12: #FCFCFD;
+  --color-slate12: #e3e3e3;
 
 }
 
