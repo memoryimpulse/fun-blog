@@ -8,7 +8,7 @@ export default defineConfig({
   site: 'https://slate-blog-demo.vercel.app',
   avatar: '/avatar02.png',
   title: 'in memoria',
-  description: 'thoughts from the threshold.',
+  description: 'thought#0E3C4Es from the threshold.',
   lastModified: true,
   readTime: true,
   footer: {

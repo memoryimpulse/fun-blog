@@ -33,6 +33,12 @@
   --color-gray10: var(--gray-10);
   --color-gray11: var(--gray-11);
   --color-gray12: var(--gray-12);
+
+  /* Custom Light/Dark variables mapped to your exact requests */
+  --color-site-bg: #F3F5DA;
+  --color-site-text: #051d26;
+  --color-site-text-subtle: #1c3640;
+
   --color-slate1: var(--slate-1);
   --color-slate2: var(--slate-2);
   --color-slate3: var(--slate-3);
@@ -138,6 +144,17 @@
   --transition-property-left: left;
 }
 
+/* Dark mode overrides applied to the palette custom variables */
+@variant dark {
+  --color-site-bg: #051d26;
+  --color-site-text: #F3F5DA;
+  --color-site-text-subtle: #d3d6b6;
+  
+  /* Overwrites default framework typography scales to listen to your colors */
+  --color-slate11: #d3d6b6;
+  --color-slate12: #F3F5DA;
+}
+
 body {
-  @apply text-sm text-slate12;
+  @apply text-sm bg-site-bg text-site-text transition-colors duration-200;
 }
